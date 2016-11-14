@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Classes and datatypes (KEYWORD1)
+#######################################
+MD_REncoder	KEYWORD1
+
+#######################################
+# Methods and functions (KEYWORD2)
+#######################################
+begin	KEYWORD2
+read	KEYWORD2
+speed	KEYWORD2
+setPeriod	KEYWORD2
+
+######################################
+# Constants/defines (LITERAL1)
+#######################################
+DIR_NONE	LITERAL1
+DIR_CW	LITERAL1
+DIR_CCW	LITERAL1
+
