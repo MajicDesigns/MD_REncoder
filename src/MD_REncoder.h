@@ -197,7 +197,7 @@ class MD_REncoder
    * \param pinB  the pin number for the encoder B output
    */
     MD_REncoder(uint8_t pinA, uint8_t pinB);
-    
+
   /** 
    * Initialize the object.
    *
@@ -205,7 +205,7 @@ class MD_REncoder
    * new data for the class that cannot be done during the object creation.
    */
     void begin(void);
-    
+
   /** 
    * Read the direction of rotation.
    *
@@ -216,7 +216,7 @@ class MD_REncoder
    * \return One of the DIR_NONE, DIR_CW or DIR_CCW.
    */
     uint8_t read(void);
-    
+
 #if ENABLE_SPEED
   /** 
    * Set the sampling period for the speed detection.

@@ -1,6 +1,6 @@
 /*
 Rotary Encoder - Polling Example
-    
+
 The circuit:
 * encoder pin A to Arduino pin 2
 * encoder pin B to Arduino pin 3

@@ -1,3 +1,5 @@
+#MD_REncoder - Rotary Encoder Library
+
 This is an adaptation of Ben Buxton's excellent [rotary library](http://www.buxtronix.net/2011/10/rotary-encoders-done-properly.html) and implements additional features for encoder rotation speed.
 
 ## Features

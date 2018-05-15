@@ -1,8 +1,8 @@
 /*
 MD_REncoder - Library for Rotary Encoders
-  
+
 See header file for comments
-  
+
 This version copyright (C) 2014 Marco Colli. All rights reserved.
 
 Original library copyright 2011 Ben Buxton. Licenced under the GNU GPL Version 3.
