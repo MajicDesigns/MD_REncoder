@@ -19,14 +19,18 @@ Features
 - Counts full-steps (default) or half-steps
 - Calculates speed of rotation
 
+If you like and use this library please consider making a small donation using [PayPal](https://paypal.me/MajicDesigns/4USD)
+
 Topics
 ------
 - \subpage pageBackground
-
 - \subpage pageLibrary
 
 Revision History
 ----------------
+Jan 2020 - version 1.0.1
+- Adjusted order of class initializers to fix errors in some compilers
+
 April 2014 - version 1.0
 - Initial implementation from Ben's code
 - Cleaned up some compile issues and added begin() method

@@ -78,10 +78,9 @@ const unsigned char ttable[][4] =
 #endif
 
 MD_REncoder::MD_REncoder(uint8_t pinA, uint8_t pinB):
-_pinA (pinA), _pinB (pinB), 
-_state(R_START)
+_pinA (pinA), _pinB (pinB), _state(R_START)
 #if ENABLE_SPEED
-, _spd(0), _count(0), _period(DEFAULT_PERIOD), _timeLast(0)
+, _period(DEFAULT_PERIOD), _count(0), _spd(0), _timeLast(0)
 #endif
 {
 }

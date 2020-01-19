@@ -9,3 +9,5 @@ This is an adaptation of Ben Buxton's excellent [rotary library](http://www.buxt
 * Interrupt based or polling in loop()
 * Counts full-steps (default) or half-steps
 * Calculates speed of rotation
+
+If you like and use this library please consider making a small donation using [PayPal](https://paypal.me/MajicDesigns/4USD)
