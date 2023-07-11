@@ -15,7 +15,6 @@ Features
 - Debounce handling with support for high rotation speeds
 - Correctly handles direction changes mid-step
 - Checks for valid state changes for more robust counting and noise immunity
-- Interrupt based or polling in loop()
 - Counts full-steps (default) or half-steps
 - Calculates speed of rotation
 
@@ -28,6 +27,9 @@ Topics
 
 Revision History
 ----------------
+Jul 2023 - version 1.0.2
+- Fixed documentation re interrupt driven use
+
 Jan 2020 - version 1.0.1
 - Adjusted order of class initializers to fix errors in some compilers
 

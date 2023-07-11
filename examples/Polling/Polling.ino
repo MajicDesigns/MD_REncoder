@@ -22,7 +22,7 @@ void loop()
 {
   uint8_t x = R.read();
   
-  if (x) 
+  if (x != DIR_NONE) 
   {
     Serial.print(x == DIR_CW ? "\n+1" : "\n-1");
 #if ENABLE_SPEED
